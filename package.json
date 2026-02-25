@@ -1,0 +1,23 @@
+{
+  "name": "gitpush_sth-ke-sth",
+  "version": "1.0.0",
+  "description": "Run these commands to set your GitHub username and email:\r ```bash\r git config --global user.name \"Your Name\"\r git config --global user.email \"your.email@github.com\"\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoti0109/12345t6y.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyoti0109/12345t6y/issues"
+  },
+  "homepage": "https://github.com/jyoti0109/12345t6y#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
